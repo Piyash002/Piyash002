@@ -1,7 +1,3 @@
-<!-- COVER IMAGE -->
-<p align="center">
-  <img src="https://i.imgur.com/wJOA8Zy.png" alt="cover" width="100%" />
-</p>
 
 <!-- DEV GIF -->
 <p align="center">
