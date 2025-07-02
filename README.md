@@ -2,11 +2,11 @@
 <p align="center">
   <img src="https://i.ibb.co/ynvs3TjT/Chat-GPT-Image-Jul-3-2025-12-02-26-AM.png" alt="cover" width="100%" />
 </p>
-<!-- DEV GIF -->
+<!-- <!-- DEV GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="dev gif" />
 </p>
-
+ -->
 <h1 align="center">Hi 👋, I'm Piyash</h1>
 <h3 align="center">A passionate MERN Developer from Bangladesh</h3>
 
