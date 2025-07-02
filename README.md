@@ -1,6 +1,6 @@
 <!-- COVER IMAGE -->
 <p align="center">
-  <img src="https://ibb.co/ccfTm5n5" alt="cover" width="100%" />
+ <a href="https://ibb.co/ccfTm5n5"><img src="https://i.ibb.co/ynvs3TjT/Chat-GPT-Image-Jul-3-2025-12-02-26-AM.png" alt="Chat-GPT-Image-Jul-3-2025-12-02-26-AM" border="0"></a>
 </p>
 <!-- DEV GIF -->
 <p align="center">
