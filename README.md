@@ -1,6 +1,6 @@
 <!-- COVER IMAGE -->
 <p align="center">
-  <img src="[https://i.ibb.co/ynvs3TjT/Chat-GPT-Image-Jul-3-2025-12-02-26-AM.png](https://i.ibb.co/nqCBP6qS/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png)" alt="cover" width="100%" />
+  <img src="https://i.ibb.co/ynvs3TjT/Chat-GPT-Image-Jul-3-2025-12-02-26-AM.png](https://i.ibb.co/nqCBP6qS/Purple-Abstract-Graphic-Design-Linked-In-Article-Cover-Image.png" alt="cover" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Piyash</h1>
